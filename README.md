@@ -1,1 +1,1 @@
-# Demo app for the cb-react-forms library [![Netlify Status](https://api.netlify.com/api/v1/badges/6e3531b8-0652-4398-94a3-599f086c6bd3/deploy-status)](https://app.netlify.com/sites/cb-react-forms/deploys)
+# Demo app for the cb-react-forms library [![Netlify Status](https://api.netlify.com/api/v1/badges/6e3531b8-0652-4398-94a3-599f086c6bd3/deploy-status)](https://cb-react-forms.netlify.com/)
